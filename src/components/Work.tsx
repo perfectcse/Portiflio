@@ -55,14 +55,14 @@ const Work = () => {
                   <h3>0{index + 1}</h3>
 
                   <div>
-                    <h4>Project Name</h4>
-                    <p>Category</p>
+                    <h4>MERN STACK</h4>
+                    <p>WEB DEV</p>
                   </div>
                 </div>
                 <h4>Tools and features</h4>
-                <p>Javascript, TypeScript, React, Threejs</p>
+                <p>Javascript, GIT&GITHUB, React, Node.js</p>
               </div>
-              <WorkImage image="/images/placeholder.webp" alt="" />
+              <WorkImage image="/images\job.jpg"></WorkImage>
             </div>
           ))}
         </div>
